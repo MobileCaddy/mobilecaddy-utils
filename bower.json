@@ -1,11 +1,12 @@
 {
   "name": "mobilecaddy-utils",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.1",
   "homepage": "https://github.com/MobileCaddy/mobilecaddy-utils",
   "authors": [
     "Todd Halfpenny", "Todd Halfpenny <todd@mobilecaddy.net>",
     "Paul Tarpey", "Paul Tarpey <paul@mobilecaddy.net>"
   ],
+  "main" : "js/mobilecaddy-utils.min.js",
   "description": "MobileCaddy Utilities for CRUD/Sync handling to support offline Salesforce development",
   "license": "NONE",
   "repository": {
@@ -13,10 +14,6 @@
     "url": "git@github.com:MobileCaddy/mobilecaddy-utils.git"
   },
   "private": false,
-  "ignore": [
-    "**/.*",
-    "bower_components"
-  ],
   "dependencies" : {
     "jquery": ">=2.0.0",
     "underscore": ">=1.5.2",
