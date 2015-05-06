@@ -1,3 +1,22 @@
+### 0.0.1-alpha.5 (2015-05-06)
+
+
+#### Bug Fixes
+
+* none
+
+#### Features
+
+* vsnUtils added
+* master/detail insert support
+* devUtils.getCurrentUserId()
+* First drop of deleteRecord (limited)
+
+#### Breaking Changes
+
+* none
+
+
 ### 0.0.1-alpha.4 (2015-03-05)
 
 
