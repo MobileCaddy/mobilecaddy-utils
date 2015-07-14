@@ -3,11 +3,16 @@
 
 #### Bug Fixes
 
-* none
+* Record level CRUD fix
+* devUtils.dirtyTables() call added
+* Further duplicate sync protection
+* Better session clean up on failed syncs due to network error
 
 #### Features
 
-* A whole load of stuff... this is to filled out from our tickets
+* syncMobileTable updated to support new args (maxTableAge, etc)
+* Sync optimisations (sharing of heartbeats)
+* Duplicate insert protection
 
 #### Breaking Changes
 
