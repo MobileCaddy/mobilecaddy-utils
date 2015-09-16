@@ -1,3 +1,26 @@
+### 0.0.2 unstable (2015-09-16)
+
+
+#### Bug Fixes
+
+* Handle duplicate inserts (same key)
+* Fix for running in Codeflow on Chromebooks
+* Added protection to "upgradeIfAvailable" for scenario where sync is in progress
+
+#### Features
+
+* New logger module (see API docs)
+* New intialSync call (see API docs)
+* Internal logging of VF remote failures etc
+* Protection on updateRecords calls where supplied ID does not match
+* Updates to support platform version 001 and 002 of sync (better handling of failures and deleted records)
+* Support for smartSQL reads (see API docs)
+
+#### Breaking Changes
+
+* none
+
+
 ### 0.0.1-alpha.6 unstable (2015-06-20)
 
 
