@@ -1,4 +1,4 @@
-### 0.0.2 (2015-09-25)
+### 0.0.2 (2015-10-05)
 
 
 #### Bug Fixes
@@ -15,6 +15,7 @@
 * Protection on updateRecords calls where supplied ID does not match
 * Updates to support platform version 001 and 002 of sync (better handling of failures and deleted records)
 * Support for smartSQL reads (see API docs)
+* NPM Support
 
 #### Breaking Changes
 
