@@ -1,3 +1,19 @@
+### 1.0.0  (2015-10-16)
+
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* NONE
+
+#### Breaking Changes
+
+* Use on packages only containing 'mobilecaddy1' namespace
+
+
 ### 0.0.2 (2015-10-05)
 
 
