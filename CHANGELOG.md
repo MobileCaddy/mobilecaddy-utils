@@ -1,3 +1,19 @@
+### 1.0.2  (2015-11-20)
+
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Promises dep bounce
+
+#### Breaking Changes
+
+* NONE
+
+
 ### 1.0.0  (2015-10-16)
 
 
