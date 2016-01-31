@@ -1,3 +1,20 @@
+### 1.1.0  (2016-01-31)
+
+
+#### Bug Fixes
+
+* NULL dates from SFDC now passed to JS code correctly (was 1970 before)
+
+#### Features
+
+* smartRead and updateRecord/s calls now support passing of non-synced IDs (MC_Proxy__c) and automatic lookup to correct record/query
+* devUtils:analInc() call - See API docs
+
+#### Breaking Changes
+
+* NONE
+
+
 ### 1.0.2  (2015-11-20)
 
 
