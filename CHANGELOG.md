@@ -1,3 +1,19 @@
+### 1.2.0  (2016-08-03)
+
+#### Bug Fixes
+
+* Corrected handling of Dates across timezones
+* Correct handling of csStatusCheck failure handling
+
+#### Features
+
+* v0.1.4 of mobilecaddy-utils.min.js
+* Added errorLog in upcoming JSON in csStatusCheck calls - for better debugging
+
+#### Breaking Changes
+
+* NONE
+
 ### 1.1.1  (2016-01-31)
 
 
