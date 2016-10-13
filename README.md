@@ -5,4 +5,4 @@ MobileCaddy utilities and supporting files for local (CodeFlow) development.
 
 See [developer.mobilecaddy.net](http://developer.mobilecaddy.net) for details and instructions.
 
-Copyright 2015 MobileCaddy Ltd
+Copyright 2016 MobileCaddy Ltd

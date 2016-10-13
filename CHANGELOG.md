@@ -1,3 +1,22 @@
+### 1.3.0  (2016-10-13)
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* v0.2.0 of mobilecaddy-utils.min.js
+* m2p JSON built natively
+* DOT support
+* Dynamic vfRemote Injection
+* Parallel p2m Sync Protection
+
+#### Breaking Changes
+
+* NONE
+
+
 ### 1.2.0  (2016-08-03)
 
 #### Bug Fixes
