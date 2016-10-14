@@ -1,3 +1,18 @@
+### 1.3.1  (2016-10-14)
+
+#### Bug Fixes
+
+* Bugfix - issue seen with boolean handling in new createUpdateJSON code
+
+#### Features
+
+* NONE
+
+#### Breaking Changes
+
+* NONE
+
+
 ### 1.3.0  (2016-10-13)
 
 #### Bug Fixes
