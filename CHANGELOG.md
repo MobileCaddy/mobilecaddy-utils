@@ -1,3 +1,17 @@
+### 1.3.2  (2016-10-24)
+
+#### Bug Fixes
+
+* Bugfix - null date handling
+
+#### Features
+
+* NONE
+
+#### Breaking Changes
+
+* NONE
+
 ### 1.3.1  (2016-10-14)
 
 #### Bug Fixes
