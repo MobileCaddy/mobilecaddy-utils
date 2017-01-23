@@ -1,3 +1,19 @@
+### 1.4.0  (2017-01-23)
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Use of MC_Resorce v1.0.0
+* Electron / Desktop Support
+* New dirtyFlag support
+
+#### Breaking Changes
+
+* NONE
+
 ### 1.3.2  (2016-10-24)
 
 #### Bug Fixes
