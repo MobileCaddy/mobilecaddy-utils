@@ -1,3 +1,20 @@
+### 1.5.0  (2017-01-30)
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Use of MC_Resorce v1.1.0
+* devUtils.getCurrentUserName()
+* devUtils.getUserLocale()
+* devUtils.getCachedAppSoupValue(key)
+
+#### Breaking Changes
+
+* NONE
+
 ### 1.4.0  (2017-01-23)
 
 #### Bug Fixes
