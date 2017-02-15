@@ -1,3 +1,18 @@
+### 1.5.1  (2017-02-15)
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Use of MC_Resorce v1.1.1
+
+#### Breaking Changes
+
+* No longer uses "mobilecaddy-desktop" string as identifier for Desktop environment. Only using bugfix semver as literally no one is using this yet.
+
+
 ### 1.5.0  (2017-01-30)
 
 #### Bug Fixes
