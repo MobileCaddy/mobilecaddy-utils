@@ -1,3 +1,21 @@
+### 1.5.2  (2017-04-10)
+
+#### Bug Fixes
+
+* updateUpdate Handling
+* Desktop DV OTA upgrade support
+* Protection aginst race condition in csStatusCheck response
+
+#### Features
+
+* Use of MC_Resorce v1.1.3
+
+#### Breaking Changes
+
+* NONE
+
+
+
 ### 1.5.1  (2017-02-15)
 
 #### Bug Fixes
