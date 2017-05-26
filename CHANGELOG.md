@@ -1,3 +1,19 @@
+### 1.6.0  (2017-05-24)
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Sync4 support, through use of MC_Resorce v1.2.0
+
+#### Breaking Changes
+
+* NONE
+
+
+
 ### 1.5.2  (2017-04-10)
 
 #### Bug Fixes
