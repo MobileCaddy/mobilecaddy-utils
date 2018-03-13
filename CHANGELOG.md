@@ -1,3 +1,21 @@
+### 1.7.1  (2018-26-03)
+
+#### Bug Fixes
+
+* Re-removing cache-skip, as still causing issues
+* String.includes polufill for older devices
+
+#### Features
+
+* Sync6 "CS in Head" opimisations
+* skipP2M flag in syncMobileTable call
+
+#### Breaking Changes
+
+* NONE
+
+
+
 ### 1.6.0  (2017-05-24)
 
 #### Bug Fixes
