@@ -1,6 +1,6 @@
 {
   "name": "mobilecaddy-utils",
-  "version": "1.6.1",
+  "version": "1.7.1",
   "description": "MobileCaddy Utilities for CRUD/Sync handling to support offline Salesforce development",
   "repository": {
     "type": "git",
@@ -10,8 +10,6 @@
   "license": "NONE",
   "preferGlobal": false,
   "dependencies": {
-    "es6-promise": "^3.0.2",
-    "jquery": ">=2.0.0",
     "underscore": "^1.8.3"
   }
 }
