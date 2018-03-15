@@ -1,4 +1,19 @@
-### 1.7.1  (2018-26-03)
+### 1.7.2  (2018-15-03)
+
+#### Bug Fixes
+
+* Incorrect handling of 100497 sync status, meant error was thrown and incomplete sync was attempted.
+
+#### Features
+
+* NONE
+
+#### Breaking Changes
+
+* NONE
+
+
+### 1.7.1  (2018-26-02)
 
 #### Bug Fixes
 
