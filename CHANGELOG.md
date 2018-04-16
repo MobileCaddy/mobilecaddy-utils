@@ -1,3 +1,18 @@
+### 1.7.3  (2018-16-04)
+
+#### Bug Fixes
+
+* Re-log all args passed to logger.
+
+#### Features
+
+* Support for recTypeDevName
+
+#### Breaking Changes
+
+* NONE
+
+
 ### 1.7.2  (2018-15-03)
 
 #### Bug Fixes
