@@ -1,3 +1,34 @@
+## 1.7.5  (2018-20-04)
+
+### Bug Fixes
+
+* _upgradeIfAvailable_ now does dirtyTables check also
+
+### Features / Improvements
+
+* Undocumented _skipDirty_ flag for _upgradeIfAvailable()_ call
+
+### Breaking Changes
+
+* NONE
+
+
+## 1.7.4
+
+### Bug Fixes
+
+* Protect against handling of already handled csStatusCheck response in "Received Processed" scenario.
+* Clear localStorage on logout
+
+### Features / Improvements
+
+* NONE
+
+### Breaking Changes
+
+* NONE
+
+
 ### 1.7.3  (2018-16-04)
 
 #### Bug Fixes
