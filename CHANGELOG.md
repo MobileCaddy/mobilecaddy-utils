@@ -1,12 +1,15 @@
-## 1.7.5  (2018-20-04)
+## 1.8.0  (2018-29-05)
 
 ### Bug Fixes
 
-* _upgradeIfAvailable_ now does dirtyTables check also
+* Array.prototype.find() Polyfill for older Browsers
+* SnapShot records not being deleted for Inserts with "stbe" == "D"
+* null handling for datetime, and bugfix (I think) in general null handling - were incorrectly setting previousValues to null also
+* Bugfix correctly deleting Insert M2P responses that should be removed check also
 
 ### Features / Improvements
 
-* Undocumented _skipDirty_ flag for _upgradeIfAvailable()_ call
+* SOQL syntax includes support for "SELECT {TABLE:FIELD} FROM... "
 
 ### Breaking Changes
 
