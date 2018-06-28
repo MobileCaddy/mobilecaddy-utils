@@ -3,7 +3,7 @@
 document.addEventListener('DOMContentLoaded', function(event) {
   var tmpCacheItemsKey = 'tmpCacheItems';
   localStorage.setItem(tmpCacheItemsKey, '[]');
-  // console.log('DOMContentLoaded. Arming cache listeners');
+  console.log('DOMContentLoaded. Arming cache listeners');
 
   // Add cache listeners
   window.applicationCache.addEventListener(
@@ -61,13 +61,13 @@ function writeCacheInfo(ev) {
   var tmpCacheItemsKey = 'tmpCacheItems';
   var cacheItems = JSON.parse(localStorage.getItem(tmpCacheItemsKey));
   if (ev.type == 'progress') {
-    // console.log('cache in progress');
+    console.log('preBootstrap Cache');
     cacheItems.push({
       Name: 'Event ',
       Description: ev.loaded + ' of ' + ev.total
     });
   } else {
-    cacheItems.push({ Name: 'Event ', Description: ev.type });
+    cacheItems.push({ Name: 'Event ', Description: 'preBootstrap-' + ev.type });
   }
   localStorage.setItem(tmpCacheItemsKey, JSON.stringify(cacheItems));
 }
