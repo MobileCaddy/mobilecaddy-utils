@@ -1,4 +1,17 @@
-## 1.8.0  (2018-29-05)
+
+## 1.8.2 (2018-06-29)
+
+### Bug Fixes
+
+* InitialSync now retries failed tables (total 3 retries) and if failed then rejects the promise.
+
+### Features / Improvements
+
+*	Allow dev to spec localStorage to persist through upgrades
+
+### Breaking Changes
+
+* NONE## 1.8.0  (2018-29-05)
 
 ### Bug Fixes
 
