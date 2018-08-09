@@ -1,5 +1,20 @@
 
-## 1.8.2 (2018-06-29)
+## 1.9.1 (2018-08-09)
+
+### Bug Fixes
+
+* Skipping sync-too-soon check, if we're in an initialSync call.
+* If 2nd table of 4+ fails then result of processing the sync queue failed.
+
+### Features / Improvements
+
+*	Deep clone input to 'insertRecords' and 'updateRecords' as input is mutable (and unsafe)
+
+### Breaking Changes
+
+* NONE
+
+## 1.8.2 (2018-07-29)
 
 ### Bug Fixes
 
