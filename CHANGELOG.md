@@ -1,3 +1,19 @@
+# CHANGELOG
+
+## 1.9.3 (2018-09-03)
+
+### Bug Fixes
+
+- MSD-624 Fix Date/Datetime data-type bug introduxed in MSD-620 v1.9.0
+
+### Features / Improvements
+
+- NONE
+
+### Breaking Changes
+
+- NONE
+
 ## 1.9.2 (2018-08-20)
 
 ### Bug Fixes
