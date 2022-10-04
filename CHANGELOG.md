@@ -1,5 +1,36 @@
 # CHANGELOG
 
+## 3.0.3 (15th Sep 2022)
+
+### Bugfix
+
+* Re-add NOT hiding splashscreen in startup
+
+## 3.0.2 (15th Aug 2022)
+
+### Bugfix
+
+* Complete applicationCache deprecation support
+
+## 3.0.1 (NOT YET RELEASED)
+
+### Features / Improvements
+
+* fileUtils support for CDFY marketing viewer
+
+## 3.0.0 (29th March 2022)
+
+### Bug Fixes
+
+* NONE
+
+### Features / Improvements
+
+* Support for transactions via container for 3GC
+* MockCordova support for SELECT WHERE IN(integer) queries
+* Major perf improvements when deleting records
+* 3GC+ - pass mcBaseBuildVersion up in getAppConfig001 call
+
 ## 1.9.3 (2018-09-03)
 
 ### Bug Fixes
