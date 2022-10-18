@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 3.0.5 (14th Oct 2022)
+
+### Bugfix
+* CDFYCLI-3 fileUtils now returns `[{status:200}]` if there are no files to download or running in CodeFlow
+
+
+## 3.0.4 (11th Oct 2022)
+
+### Bugfix
+
+* MSD-740 - Better handling of file downloads, including retry and fix for iOS plugin response handling
+* MSD-740 - Android file saving in `appbundle` dir and serving via links rather than base64
+
+
 ## 3.0.3 (15th Sep 2022)
 
 ### Bugfix
