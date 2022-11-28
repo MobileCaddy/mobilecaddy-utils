@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 3.0.6 (24th Nov 2022)
+
+### Bugfix
+* MSD-641 - IntialSync calls in parallel if on 3GC
+* MSD-642 - Dynmanic namespace in FileUtils File_Library field names (e.g. 'cdfy__')
+* MSD-643 - Move file downloads into `../media`
+* MSD-644 - Utils as the SDK for a media digest
+* MSD-645 - Ask container for appconfig as it may have already downloaded it
+
+
 ## 3.0.5 (14th Oct 2022)
 
 ### Bugfix
