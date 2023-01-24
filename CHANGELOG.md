@@ -1,4 +1,30 @@
 # CHANGELOG
+## 3.1.0 (12th Dec)
+
+### Feature
+* Better handling of paged tables on initialSync failures (currently 3s timebuffer)
+
+
+## 3.0.9 (5th Dec)
+
+### Feature
+* Parallel initialSync controlled by localStorage and window values;
+
+
+# CHANGELOG
+## 3.0.8 (1st Dec)
+
+### Feature
+* Turning off enhancedDomain hanlding
+
+### Bugfix
+* Correctly handle non 'complete' resonses from the container when querying for media digest
+
+## 3.0.7 (TBC)
+
+### Features
+* MSD-646 - Enhanced domain support in proxyToken call (2GC)
+
 
 ## 3.0.6 (24th Nov 2022)
 
