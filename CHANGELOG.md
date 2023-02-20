@@ -1,4 +1,10 @@
 # CHANGELOG
+## 3.1.1 (20 Feb 2023)
+
+### Bugfix
+* MSD-648 - Add Total Session + Session Number to retry flow
+
+# CHANGELOG
 ## 3.1.0 (12th Dec)
 
 ### Feature
