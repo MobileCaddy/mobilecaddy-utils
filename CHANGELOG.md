@@ -1,4 +1,9 @@
 # CHANGELOG
+## 3.1.2 (31st July 2023)
+
+### Bugfix
+* Case 8261 - Add Retry and alert for DOTs retrieval failures
+
 ## 3.1.1 (20 Feb 2023)
 
 ### Bugfix
