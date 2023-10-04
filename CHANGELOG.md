@@ -1,4 +1,9 @@
 # CHANGELOG
+## 3.1.3 (25th Sept 2023)
+
+### Bugfix
+* MSD-649 - iOS Filepath after upgrade.
+
 ## 3.1.2 (31st July 2023)
 
 ### Bugfix
