@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 1.9.7
+
+### Bug Fixes
+
+- NONE
+
+### Features / Improvements
+
+- Optional support for window.applicationCache
+
+
+## 1.9.6
+
+### Features / Improvements
+* RefreshToken hits MobileCaddy's enhanced domain (note built off v1.9.3, not v1.9.5);
+
+
 ## 1.9.3 (2018-09-03)
 
 ### Bug Fixes
