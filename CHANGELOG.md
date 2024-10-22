@@ -1,4 +1,11 @@
 # CHANGELOG
+## 3.2.0 (22nd Oct 2024)
+
+### Feature
+* Protect M2P processing against already inserted records when RTS still has ProxyId for ID
+* Late entry - added window.McUtilsVsn value into constant so we can check out run-time the running version
+
+# CHANGELOG
 ## 3.1.3 (25th Sept 2023)
 
 ### Bugfix
