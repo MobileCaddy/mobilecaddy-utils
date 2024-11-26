@@ -1,5 +1,10 @@
 # CHANGELOG
-## 3.2.0 (22nd Oct 2024)
+## 3.2.1 (26th Nov 2024)
+
+### Feature
+* Types
+
+## 3.2.1 (22nd Oct 2024)
 
 ### Feature
 * Protect M2P processing against already inserted records when RTS still has ProxyId for ID
